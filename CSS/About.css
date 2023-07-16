@@ -1,0 +1,23 @@
+.Aboutheading{
+	padding-top: 100px;
+	text-align: center;
+	font-size: 30px;
+}
+.h2{
+	padding-left: 120px;
+	font-size: 15px;
+	font-family: sans-serif ;
+	color: rebeccapurple;
+	font-weight: 1200;
+  transition-duration: 1s;
+}
+.h2:hover {
+  color: rgb(243, 168, 7);
+}
+
+.h3{
+	padding-top: 20px;
+	padding-left: 120px;
+	padding-right: 120px;
+
+}
